@@ -1,5 +1,5 @@
 //
-//  BKAnalogic.swift
+//  GMAnalogic.swift
 //  FazendoAnalogico
 //
 //  Created by Matheus Bispo on 21/05/17.

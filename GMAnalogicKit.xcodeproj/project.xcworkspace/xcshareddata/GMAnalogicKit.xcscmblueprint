@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C4543CBE634CC348D944CD35742968685B301E2B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3386C2D1FCBAD68536AC3EDA9E7618003A34E766" : 9223372036854775807,
+    "C4543CBE634CC348D944CD35742968685B301E2B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CA61DDE4-7BCE-42B3-AB7A-BAA1552E32BD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3386C2D1FCBAD68536AC3EDA9E7618003A34E766" : "",
+    "C4543CBE634CC348D944CD35742968685B301E2B" : "GMAnalogicKit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GMAnalogicKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GMAnalogicKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/MatheusMBispo\/pokemon_pid.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3386C2D1FCBAD68536AC3EDA9E7618003A34E766"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MatheusMBispo\/GMAnalogicKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4543CBE634CC348D944CD35742968685B301E2B"
+    }
+  ]
+}
